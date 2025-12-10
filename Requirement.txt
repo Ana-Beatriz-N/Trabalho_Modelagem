@@ -1,0 +1,13 @@
+# Core Libraries para manipulação de dados
+pandas
+numpy
+
+# Biblioteca Principal de Machine Learning e MLOps
+pycaret
+
+# Se você estiver usando a parte de Regressão OLS (statsmodels)
+statsmodels
+
+# Biblioteca para visualização de dados (se estiver usando os gráficos de seaborn/matplotlib diretamente)
+matplotlib
+seaborn
